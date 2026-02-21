@@ -50,6 +50,20 @@ India and Bangladesh are the leading markets contributing the highest revenue.
 
 Sales experienced significant growth after 2020 and maintained stable performance.
 
+## 📊 Dashboard Preview
+
+### Overview
+![Overview](page%201.jpg)
+
+### Customers
+![Customers](page%202.jpg)
+
+### Products
+![Products](page%203.jpg)
+
+### Summary
+![Summary](page%204.jpg)
+
 ⸻
 
 💡 Business Recommendations
