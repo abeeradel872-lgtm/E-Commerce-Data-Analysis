@@ -8,7 +8,6 @@ End-to-end E-Commerce Sales Analysis leveraging SQL for data processing and Exce
 This project analyzes E-Commerce sales data to evaluate business performance, customer behavior, and product trends.
 The analysis was conducted using SQL for data extraction and Excel for dashboard visualization.
 
-⸻
 
 🎯 Business Objectives
  • Analyze total sales and total quantity sold
@@ -17,20 +16,16 @@ The analysis was conducted using SQL for data extraction and Excel for dashboard
  • Analyze sales trends over time
  • Evaluate country-level performance
 
-⸻
 
 🛠 Tools & Technologies
  • SQL (Data Cleaning & Aggregation)
  • Microsoft Excel (Dashboard & Visualization)
 
-⸻
 
 📊 Key Performance Indicators (KPIs)
  • Total Sales: $105,401,436
  • Total Quantity Sold: 96,629
  • Average Spending per Customer: $11,468
-
-⸻
 
 🔎 Key Insights
 
@@ -48,9 +43,22 @@ India and Bangladesh are the leading markets contributing the highest revenue.
 
 📈 Sales Trends
 
-Sales experienced significant growth after 2020 and maintained stable performance.
+Sales experienced significant growth after 2020 and maintained stable performance
 
-## 📊 Dashboard Preview
+💡 Business Recommendations
+ • Allocate higher marketing budget to high-revenue countries.
+ • Maintain strong inventory levels for best-selling products.
+ • Implement a VIP loyalty program for top customers
+
+ ## 👥 Team Members
+ 
+- [Mai Yasser] – ER Diagram & Database Design  
+- [Eman Kenawy] – Database Implementation (SQL)  
+- [Habiba Ebrahim] – Data Analysis Using SQL  
+- [Menna Khaled] – Window Functions
+- [Abeer Adel] – Excel Analysis & Dashboard Development 
+
+ ## 📊 Dashboard Preview
 
 ### Overview
 ![Overview](page%201.jpg)
@@ -63,10 +71,3 @@ Sales experienced significant growth after 2020 and maintained stable performanc
 
 ### Summary
 ![Summary](page%204.jpg)
-
-⸻
-
-💡 Business Recommendations
- • Allocate higher marketing budget to high-revenue countries.
- • Maintain strong inventory levels for best-selling products.
- • Implement a VIP loyalty program for top customers
